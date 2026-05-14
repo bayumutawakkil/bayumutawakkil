@@ -37,9 +37,9 @@ Hi! I'm **Bayu Mutawakkil** – a passionate developer crafting amazing digital 
 
 <div align="center">
 
-![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayumutawakkil&show_icons=true&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayumutawakkil&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayumutawakkil&layout=compact&theme=radical)](https://github.com/bayumutawakkil)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayumutawakkil&theme=radical)
 
 </div>
 
