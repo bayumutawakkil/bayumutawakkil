@@ -47,11 +47,13 @@ Hi! I'm **Bayu Mutawakkil** – a passionate developer crafting amazing digital 
 
 ## Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Project 1 | Brief description | [View](https://github.com/bayumutawakkil/PROJECT_1) |
-| Project 2 | Brief description | [View](https://github.com/bayumutawakkil/PROJECT_2) |
-| Project 3 | Brief description | [View](https://github.com/bayumutawakkil/PROJECT_3) |
+<div align="center">
+
+[![dss-saw](https://github-readme-stats.vercel.app/api/pin/?username=bayumutawakkil&repo=dss-saw&theme=radical)](https://github.com/bayumutawakkil/dss-saw)
+[![kistudy](https://github-readme-stats.vercel.app/api/pin/?username=bayumutawakkil&repo=kistudy&theme=radical)](https://github.com/bayumutawakkil/kistudy)
+[![single-page-cv](https://github-readme-stats.vercel.app/api/pin/?username=bayumutawakkil&repo=single-page-cv&theme=radical)](https://github.com/bayumutawakkil/single-page-cv)
+
+</div>
 
 ---
 
