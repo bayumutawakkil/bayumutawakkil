@@ -1,0 +1,51 @@
+name: Daily Coding Reminder
+
+on:
+  schedule:
+    # 12:00 WIB
+    - cron: "0 12 * * *"
+      timezone: "Asia/Jakarta"
+
+    # 18:00 WIB
+    - cron: "0 18 * * *"
+      timezone: "Asia/Jakarta"
+
+    # 22:00 WIB
+    - cron: "0 22 * * *"
+      timezone: "Asia/Jakarta"
+
+  # Bisa dijalankan manual dari GitHub Actions
+  workflow_dispatch:
+
+jobs:
+  check-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Check GitHub Push
+        id: check
+        env:
+          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
+        run: |
+          python main.py
+
+      - name: Send Push Notification
+        if: steps.check.outcome == 'failure'
+        uses: techulus/push-github-action@1.0.0
+        env:
+          API_KEY: ${{ secrets.PUSH_API_KEY }}
+          MESSAGE: "🔔 Belum terdeteksi push GitHub hari ini. Yuk coding dulu!"
