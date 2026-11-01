@@ -115,9 +115,6 @@ Explore my repositories to discover more experiments, coursework, and software d
 
 ## 📊 GitHub Analytics
 
-
-<h2>📊 GitHub Analytics</h2>
-
 <div align="center">
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=bayumutawakkil&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
