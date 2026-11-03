@@ -1,146 +1,57 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:00FF41,100:0D1117&text=Bayu%20Mutawakkil&fontColor=00FF41&fontAlignY=55&fontSize=40&animation=fadeIn" width="100%" alt="Bayu Mutawakkil Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,100:00D4FF&text=Bayu%20Mutawakkil&fontColor=00D4FF&fontSize=64&fontAlignY=40&desc=systems%20person%20%7C%20code%20tinkerer%20%7C%20over-thinker&descSize=16&descColor=C9D1D9&animation=twinkling" width="100%" alt="Bayu Mutawakkil"/>
 
-<h3>Information Systems Student | Software Developer</h3>
+<br/>
 
-<p>
-Building digital solutions through software engineering, information systems, and data.
-</p>
-
-<a href="https://github.com/bayumutawakkil">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
-</a>
-<a href="https://wakatime.com/@bayumutawakkil">
-  <img src="https://img.shields.io/badge/WakaTime-0D1117?style=for-the-badge&logo=wakatime&logoColor=00FF41" alt="WakaTime"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=Turning+messy+problems+into+clean+systems;Where+code+meets+business+logic;Building+things+people+actually+use" alt="typing intro"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 so, who's this?
 
-I'm an Information Systems student at **Universitas Andalas**, interested in designing and developing software solutions that address real-world problems.
+I'm an **Information Systems student at Universitas Andalas**. I like working out how a system runs from the inside, then building the thing that fixes what's annoying people.
 
-My interests lie at the intersection of software development, business processes, and information technology.
+I'm not just here for the code. I want to know *why* a process exists before I automate it.
 
-- 🎓 Studying Information Systems at Universitas Andalas.
-- 💻 Developing web applications and exploring application architecture.
-- 🏢 Interested in Enterprise Systems, ERP, and Business Analysis.
-- 📊 Exploring Data Analytics, Machine Learning, and Decision Support Systems.
-- 🔍 Interested in translating business requirements into practical software solutions.
+<img align="right" width="180" src="https://skillicons.dev/icons?i=python,js,ts,java,dart&perline=3&theme=dark" alt="languages"/>
 
-## 🛠️ Technologies & Tools
+```text
+> interests:
+    enterprise systems, ERP, business analysis
+    data, machine learning, decision support
+    databases, process modeling, the boring-but-critical bits
+```
 
-**Languages**
+<br clear="right"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,dart" alt="Programming Languages"/>
-</p>
+---
 
-**Frontend Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vue" alt="Frontend Technologies"/>
-</p>
-
-**Backend & Database**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,sqlite" alt="Backend Technologies"/>
-</p>
-
-**Tools & Environment**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,flutter" alt="Development Tools"/>
-</p>
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### DSS - SAW
-
-<a href="https://github.com/bayumutawakkil/dss-saw">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bayumutawakkil&repo=dss-saw&theme=github_dark&hide_border=true" width="100%" alt="DSS SAW"/>
-</a>
-
-A Decision Support System implementation using the Simple Additive Weighting (SAW) method.
-
-</td>
-<td width="50%" valign="top">
-
-### KiStudy
-
-<a href="https://github.com/bayumutawakkil/kistudy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bayumutawakkil&repo=kistudy&theme=github_dark&hide_border=true" width="100%" alt="KiStudy"/>
-</a>
-
-An application project focused on learning and educational support.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Single Page CV
-
-<a href="https://github.com/bayumutawakkil/single-page-cv">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bayumutawakkil&repo=single-page-cv&theme=github_dark&hide_border=true" width="100%" alt="Single Page CV"/>
-</a>
-
-A responsive single-page CV project showcasing frontend development fundamentals.
-
-</td>
-<td width="50%" valign="top">
-
-### More Projects
-
-Explore my repositories to discover more experiments, coursework, and software development projects.
-
-<a href="https://github.com/bayumutawakkil?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-00FF41?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore Repositories"/>
-</a>
-
-</td>
-</tr>
-</table>
-</div>
-
-## 📊 GitHub Analytics
+### 🧰 the toolbox
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=bayumutawakkil&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bayumutawakkil&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,dart,html,css,react,nextjs,tailwind,vue,nodejs,express,django,mysql,sqlite,git,github,vscode,docker,flutter&theme=dark&perline=11" alt="tech stack"/>
 
 </div>
 
-<h2>🐍 Contributions</h2>
+---
+
+### 📈 the numbers
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bayumutawakkil/bayumutawakkil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=bayumutawakkil&langs_count=5&theme=tokyonight&title_color=00D4FF&icon_color=00D4FF&border_color=00D4FF&text_color=C9D1D9&bg_color=0D1117)](https://github-stats-extended.vercel.app/api/top-langs?username=bayumutawakkil&langs_count=5&theme=tokyonight)
 
-</div>
+<br/>
 
-
-## 🏆 Contributions
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bayumutawakkil&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+[![30-day activity](https://ghstats.dev/api/sparkline?username=bayumutawakkil&days=30&width=420&color=00D4FF)](https://github.com/rowkav09/GitHub-profile-stats)
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/bayumutawakkil/bayumutawakkil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/bayumutawakkil/bayumutawakkil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
@@ -148,12 +59,12 @@ Explore my repositories to discover more experiments, coursework, and software d
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bayumutawakkil&label=PROFILE%20VIEWS&color=00FF41&style=flat-square" alt="Profile Views"/>
+![3299700cb33c54](https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1)
 
-<br/><br/>
+<br/>
 
-**Building systems. Solving problems. Learning continuously.**
+**thanks for stopping by. build something cool.** ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:00FF41,100:0D1117&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:00D4FF,100:0D1117&section=footer" width="100%" alt="Footer"/>
 
 </div>
