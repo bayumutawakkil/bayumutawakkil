@@ -1,67 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560" role="img" aria-labelledby="title desc">
 <title id="title">GitHub profile statistics</title>
 <desc id="desc">Public repositories, stars, forks, followers, and programming language distribution.</desc>
-<rect width="1100" height="520" rx="24" fill="#08111F"/>
-<rect x="1" y="1" width="1098" height="518" rx="23" fill="none" stroke="#29415D"/>
-<rect x="32" y="32" width="8" height="58" rx="4" fill="#49D7FF"/>
-<text x="60" y="53" fill="#49D7FF" font-size="12" font-weight="750" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">GITHUB / PROFILE SIGNALS</text>
-<text x="60" y="83" fill="#F5F8FC" font-size="26" font-weight="750" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">A snapshot of what I build</text>
-<text x="1060" y="59" fill="#9AAFC7" font-size="13" font-weight="600" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">@bayumutawakkil</text>
-<text x="1060" y="82" fill="#9AAFC7" font-size="10" font-weight="700" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">PUBLIC DATA</text>
-<rect x="40" y="116" width="240" height="90" rx="14" fill="#13243A"/>
-<rect x="40" y="116" width="240" height="5" rx="2.5" fill="#49D7FF"/>
-<text x="60" y="148" fill="#9AAFC7" font-size="11" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">Public Repositories</text>
-<text x="60" y="186" fill="#F5F8FC" font-size="30" font-weight="750" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">23</text>
-<rect x="300" y="116" width="240" height="90" rx="14" fill="#13243A"/>
-<rect x="300" y="116" width="240" height="5" rx="2.5" fill="#29415D"/>
-<text x="320" y="148" fill="#9AAFC7" font-size="11" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">Stars Earned</text>
-<text x="320" y="186" fill="#F5F8FC" font-size="30" font-weight="750" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">0</text>
-<rect x="560" y="116" width="240" height="90" rx="14" fill="#13243A"/>
-<rect x="560" y="116" width="240" height="5" rx="2.5" fill="#29415D"/>
-<text x="580" y="148" fill="#9AAFC7" font-size="11" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">Forks Received</text>
-<text x="580" y="186" fill="#F5F8FC" font-size="30" font-weight="750" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">2</text>
-<rect x="820" y="116" width="240" height="90" rx="14" fill="#13243A"/>
-<rect x="820" y="116" width="240" height="5" rx="2.5" fill="#29415D"/>
-<text x="840" y="148" fill="#9AAFC7" font-size="11" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">Followers</text>
-<text x="840" y="186" fill="#F5F8FC" font-size="30" font-weight="750" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">4</text>
-<rect x="40" y="230" width="1020" height="250" rx="16" fill="#0E1A2B"/>
-<text x="66" y="267" fill="#F5F8FC" font-size="13" font-weight="750" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">LANGUAGE DISTRIBUTION</text>
-<text x="1034" y="267" fill="#9AAFC7" font-size="10" font-weight="700" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">BY CODE BYTES</text>
-<rect x="66.00" y="292" width="241.80" height="14" fill="#3178C6"/>
-<rect x="307.80" y="292" width="226.70" height="14" fill="#E34C26"/>
-<rect x="534.50" y="292" width="178.59" height="14" fill="#F1E05A"/>
-<rect x="713.09" y="292" width="83.37" height="14" fill="#DA5B0B"/>
-<rect x="796.46" y="292" width="74.89" height="14" fill="#B07219"/>
-<rect x="871.36" y="292" width="59.14" height="14" fill="#563D7C"/>
-<rect x="930.50" y="292" width="103.50" height="14" fill="#71869E"/>
-<circle cx="71" cy="340" r="5" fill="#3178C6"/>
-<text x="86" y="345" fill="#F5F8FC" font-size="13" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">TypeScript</text>
-<rect x="242" y="334" width="240" height="6" rx="3" fill="#243A54"/>
-<rect x="242" y="334" width="59.95" height="6" rx="3" fill="#3178C6"/>
-<text x="534" y="345" fill="#9AAFC7" font-size="12" font-weight="650" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">25.0%</text>
-<circle cx="71" cy="377" r="5" fill="#E34C26"/>
-<text x="86" y="382" fill="#F5F8FC" font-size="13" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">HTML</text>
-<rect x="242" y="371" width="240" height="6" rx="3" fill="#243A54"/>
-<rect x="242" y="371" width="56.21" height="6" rx="3" fill="#E34C26"/>
-<text x="534" y="382" fill="#9AAFC7" font-size="12" font-weight="650" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">23.4%</text>
-<circle cx="71" cy="414" r="5" fill="#F1E05A"/>
-<text x="86" y="419" fill="#F5F8FC" font-size="13" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">JavaScript</text>
-<rect x="242" y="408" width="240" height="6" rx="3" fill="#243A54"/>
-<rect x="242" y="408" width="44.28" height="6" rx="3" fill="#F1E05A"/>
-<text x="534" y="419" fill="#9AAFC7" font-size="12" font-weight="650" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">18.4%</text>
-<circle cx="571" cy="340" r="5" fill="#DA5B0B"/>
-<text x="586" y="345" fill="#F5F8FC" font-size="13" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">Jupyter Notebook</text>
-<rect x="742" y="334" width="240" height="6" rx="3" fill="#243A54"/>
-<rect x="742" y="334" width="20.67" height="6" rx="3" fill="#DA5B0B"/>
-<text x="1034" y="345" fill="#9AAFC7" font-size="12" font-weight="650" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">8.6%</text>
-<circle cx="571" cy="377" r="5" fill="#B07219"/>
-<text x="586" y="382" fill="#F5F8FC" font-size="13" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">Java</text>
-<rect x="742" y="371" width="240" height="6" rx="3" fill="#243A54"/>
-<rect x="742" y="371" width="18.57" height="6" rx="3" fill="#B07219"/>
-<text x="1034" y="382" fill="#9AAFC7" font-size="12" font-weight="650" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">7.7%</text>
-<circle cx="571" cy="414" r="5" fill="#563D7C"/>
-<text x="586" y="419" fill="#F5F8FC" font-size="13" font-weight="650" text-anchor="start" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">CSS</text>
-<rect x="742" y="408" width="240" height="6" rx="3" fill="#243A54"/>
-<rect x="742" y="408" width="14.66" height="6" rx="3" fill="#563D7C"/>
-<text x="1034" y="419" fill="#9AAFC7" font-size="12" font-weight="650" text-anchor="end" font-family="Inter, ui-sans-serif, Segoe UI, Arial, sans-serif">6.1%</text>
+<defs>
+  <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#58a6ff" stop-opacity="0.9"/><stop offset="100%" stop-color="#d2a8ff" stop-opacity="0.9"/></linearGradient>
+  <radialGradient id="glow" cx="0.9" cy="0.0" r="0.6"><stop offset="0%" stop-color="#58a6ff" stop-opacity="0.18"/><stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1100" height="560" rx="12" fill="#0d1117"/>
+<rect width="1100" height="560" rx="12" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="1099" height="559" rx="12" fill="none" stroke="#30363d"/>
+<rect x="40" y="36" width="1020" height="3" rx="1.5" fill="url(#hdr)"/>
+<text x="40" y="78" fill="#e6edf3" font-size="24" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Profile overview</text>
+<text x="40" y="100" fill="#8b949e" font-size="13" font-weight="400" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Public GitHub activity and language breakdown</text>
+<text x="1060" y="78" fill="#58a6ff" font-size="14" font-weight="600" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">@bayumutawakkil</text>
+<rect x="40" y="128" width="240" height="104" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="62" cy="156" r="4" fill="#58a6ff"/>
+<text x="76" y="161" fill="#8b949e" font-size="11" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">REPOSITORIES</text>
+<text x="62" y="210" fill="#e6edf3" font-size="32" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">23</text>
+<rect x="300" y="128" width="240" height="104" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="322" cy="156" r="4" fill="#e3b341"/>
+<text x="336" y="161" fill="#8b949e" font-size="11" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">STARS EARNED</text>
+<text x="322" y="210" fill="#e6edf3" font-size="32" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">0</text>
+<rect x="560" y="128" width="240" height="104" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="582" cy="156" r="4" fill="#3fb950"/>
+<text x="596" y="161" fill="#8b949e" font-size="11" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">FORKS RECEIVED</text>
+<text x="582" y="210" fill="#e6edf3" font-size="32" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2</text>
+<rect x="820" y="128" width="240" height="104" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="842" cy="156" r="4" fill="#d2a8ff"/>
+<text x="856" y="161" fill="#8b949e" font-size="11" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">FOLLOWERS</text>
+<text x="842" y="210" fill="#e6edf3" font-size="32" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">4</text>
+<rect x="40" y="256" width="1020" height="264" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="64" y="290" fill="#e6edf3" font-size="15" font-weight="600" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Language distribution</text>
+<text x="1036" y="290" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">by code bytes</text>
+<clipPath id="barclip"><rect x="64" y="310" width="972" height="12" rx="6"/></clipPath>
+<g clip-path="url(#barclip)">
+<rect x="64.00" y="310" width="242.74" height="12" fill="#3178C6"/>
+<rect x="306.74" y="310" width="227.58" height="12" fill="#e34c26"/>
+<rect x="534.32" y="310" width="179.28" height="12" fill="#f1e05a"/>
+<rect x="713.60" y="310" width="83.70" height="12" fill="#DA5B0B"/>
+<rect x="797.30" y="310" width="75.18" height="12" fill="#b07219"/>
+<rect x="872.48" y="310" width="59.37" height="12" fill="#563d7c"/>
+<rect x="931.85" y="310" width="104.15" height="12" fill="#6e7681"/>
+</g>
+<circle cx="70" cy="357" r="6" fill="#3178C6"/>
+<text x="86" y="362" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">TypeScript</text>
+<rect x="264" y="350" width="260" height="8" rx="4" fill="#30363d"/>
+<rect x="264" y="350" width="64.93" height="8" rx="4" fill="#3178C6"/>
+<text x="544" y="362" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">25.0%</text>
+<circle cx="70" cy="401" r="6" fill="#e34c26"/>
+<text x="86" y="406" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">HTML</text>
+<rect x="264" y="394" width="260" height="8" rx="4" fill="#30363d"/>
+<rect x="264" y="394" width="60.88" height="8" rx="4" fill="#e34c26"/>
+<text x="544" y="406" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">23.4%</text>
+<circle cx="70" cy="445" r="6" fill="#f1e05a"/>
+<text x="86" y="450" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">JavaScript</text>
+<rect x="264" y="438" width="260" height="8" rx="4" fill="#30363d"/>
+<rect x="264" y="438" width="47.96" height="8" rx="4" fill="#f1e05a"/>
+<text x="544" y="450" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">18.4%</text>
+<circle cx="586" cy="357" r="6" fill="#DA5B0B"/>
+<text x="602" y="362" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jupyter Notebook</text>
+<rect x="780" y="350" width="260" height="8" rx="4" fill="#30363d"/>
+<rect x="780" y="350" width="22.39" height="8" rx="4" fill="#DA5B0B"/>
+<text x="1060" y="362" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">8.6%</text>
+<circle cx="586" cy="401" r="6" fill="#b07219"/>
+<text x="602" y="406" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Java</text>
+<rect x="780" y="394" width="260" height="8" rx="4" fill="#30363d"/>
+<rect x="780" y="394" width="20.11" height="8" rx="4" fill="#b07219"/>
+<text x="1060" y="406" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">7.7%</text>
+<circle cx="586" cy="445" r="6" fill="#563d7c"/>
+<text x="602" y="450" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">CSS</text>
+<rect x="780" y="438" width="260" height="8" rx="4" fill="#30363d"/>
+<rect x="780" y="438" width="15.88" height="8" rx="4" fill="#563d7c"/>
+<text x="1060" y="450" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">6.1%</text>
+<text x="40" y="546" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Generated from public GitHub data</text>
 </svg>
