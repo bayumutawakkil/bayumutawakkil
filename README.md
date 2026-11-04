@@ -30,7 +30,7 @@ I'm not just here for the code. I want to know *why* a process exists before I a
 ### tech stack
 
 <div align="center">
-a
+
 <!-- SKILL_ICONS_START -->
 <!-- SKILL_ICONS_END -->
 
