@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+<title id="title">GitHub Overview</title>
+<desc id="desc">Public GitHub profile statistics and most-used programming languages.</desc>
+<rect width="1000" height="390" rx="18" fill="#0D1117"/>
+<rect x="1" y="1" width="998" height="388" rx="17" fill="none" stroke="#263442"/>
+<rect x="24" y="24" width="952" height="342" rx="13" fill="#111820" stroke="#263442"/>
+<text x="48" y="62" fill="#00D4FF" font-size="13" font-weight="700" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">GITHUB OVERVIEW</text>
+<text x="952" y="62" fill="#8B949E" font-size="12" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">@bayumutawakkil</text>
+<line x1="48" y1="82" x2="952" y2="82" stroke="#263442"/>
+<rect x="48" y="112" width="196" height="88" rx="9" fill="#0D1117" stroke="#263442"/>
+<text x="64" y="139" fill="#8B949E" font-size="10" font-weight="600" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">PUBLIC REPOSITORIES</text>
+<text x="64" y="176" fill="#C9D1D9" font-size="27" font-weight="700" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">23</text>
+<rect x="64" y="188" width="34" height="3" rx="1.5" fill="#00D4FF"/>
+<rect x="264" y="112" width="196" height="88" rx="9" fill="#0D1117" stroke="#263442"/>
+<text x="280" y="139" fill="#8B949E" font-size="10" font-weight="600" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">STARS EARNED</text>
+<text x="280" y="176" fill="#C9D1D9" font-size="27" font-weight="700" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">0</text>
+<rect x="280" y="188" width="34" height="3" rx="1.5" fill="#00D4FF"/>
+<rect x="48" y="224" width="196" height="88" rx="9" fill="#0D1117" stroke="#263442"/>
+<text x="64" y="251" fill="#8B949E" font-size="10" font-weight="600" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">FORKS</text>
+<text x="64" y="288" fill="#C9D1D9" font-size="27" font-weight="700" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">2</text>
+<rect x="64" y="300" width="34" height="3" rx="1.5" fill="#00D4FF"/>
+<rect x="264" y="224" width="196" height="88" rx="9" fill="#0D1117" stroke="#263442"/>
+<text x="280" y="251" fill="#8B949E" font-size="10" font-weight="600" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">FOLLOWERS</text>
+<text x="280" y="288" fill="#C9D1D9" font-size="27" font-weight="700" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">4</text>
+<rect x="280" y="300" width="34" height="3" rx="1.5" fill="#00D4FF"/>
+<line x1="488" y1="104" x2="488" y2="338" stroke="#263442"/>
+<text x="520" y="119" fill="#00D4FF" font-size="13" font-weight="700" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">MOST USED LANGUAGES</text>
+<text x="952" y="119" fill="#8B949E" font-size="10" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">BY CODE BYTES</text>
+<rect x="520.00" y="143" width="107.92" height="10" fill="#3178C6"/>
+<rect x="627.92" y="143" width="101.18" height="10" fill="#E34C26"/>
+<rect x="729.10" y="143" width="79.71" height="10" fill="#F1E05A"/>
+<rect x="808.81" y="143" width="37.21" height="10" fill="#DA5B0B"/>
+<rect x="846.02" y="143" width="33.43" height="10" fill="#B07219"/>
+<rect x="879.44" y="143" width="26.40" height="10" fill="#563D7C"/>
+<circle cx="527" cy="184" r="4" fill="#3178C6"/>
+<text x="541" y="188" fill="#C9D1D9" font-size="12" font-weight="500" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">TypeScript</text>
+<text x="952" y="188" fill="#8B949E" font-size="12" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">25.0%</text>
+<circle cx="527" cy="211" r="4" fill="#E34C26"/>
+<text x="541" y="215" fill="#C9D1D9" font-size="12" font-weight="500" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">HTML</text>
+<text x="952" y="215" fill="#8B949E" font-size="12" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">23.4%</text>
+<circle cx="527" cy="238" r="4" fill="#F1E05A"/>
+<text x="541" y="242" fill="#C9D1D9" font-size="12" font-weight="500" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">JavaScript</text>
+<text x="952" y="242" fill="#8B949E" font-size="12" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">18.5%</text>
+<circle cx="527" cy="265" r="4" fill="#DA5B0B"/>
+<text x="541" y="269" fill="#C9D1D9" font-size="12" font-weight="500" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">Jupyter Notebook</text>
+<text x="952" y="269" fill="#8B949E" font-size="12" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">8.6%</text>
+<circle cx="527" cy="292" r="4" fill="#B07219"/>
+<text x="541" y="296" fill="#C9D1D9" font-size="12" font-weight="500" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">Java</text>
+<text x="952" y="296" fill="#8B949E" font-size="12" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">7.7%</text>
+<circle cx="527" cy="319" r="4" fill="#563D7C"/>
+<text x="541" y="323" fill="#C9D1D9" font-size="12" font-weight="500" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">CSS</text>
+<text x="952" y="323" fill="#8B949E" font-size="12" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">6.1%</text>
+<line x1="48" y1="338" x2="952" y2="338" stroke="#263442"/>
+<text x="48" y="356" fill="#8B949E" font-size="9" font-weight="400" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif">Public repositories · Forks and archived repositories excluded from stars/languages</text>
+<text x="952" y="356" fill="#8B949E" font-size="9" font-weight="400" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif">Updated 2026-11-04 20:31 UTC</text>
+</svg>
