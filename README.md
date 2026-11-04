@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,100:00D4FF&text=Bayu%20Mutawakkil&fontColor=00D4FF&fontSize=64&fontAlignY=40&desc=systems%20person%20%7C%20code%20tinkerer%20%7C%20over-thinker&descSize=16&descColor=C9D1D9&animation=twinkling" width="100%" alt="Bayu Mutawakkil"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,100:00D4FF&text=Bayu%20Mutawakkil&fontColor=0096C7&fontSize=64&fontAlignY=40&desc=systems%20person%20%7C%20code%20tinkerer%20%7C%20over-thinker&descSize=16&descColor=C9D1D9&animation=twinkling" width="100%" alt="Bayu Mutawakkil"/>
 
 <br/>
 
@@ -10,13 +10,12 @@
 
 ---
 
-### 👋 so, who's this?
+### so, who's this?
 
 I'm an **Information Systems student at Universitas Andalas**. I like working out how a system runs from the inside, then building the thing that fixes what's annoying people.
 
 I'm not just here for the code. I want to know *why* a process exists before I automate it.
 
-<img align="right" width="180" src="https://skillicons.dev/icons?i=python,js,ts,java,dart&perline=3&theme=dark" alt="languages"/>
 
 ```text
 > interests:
@@ -25,7 +24,6 @@ I'm not just here for the code. I want to know *why* a process exists before I a
     databases, process modeling, the boring-but-critical bits
 ```
 
-<br clear="right"/>
 
 ---
 
@@ -39,17 +37,12 @@ I'm not just here for the code. I want to know *why* a process exists before I a
 
 ---
 
-### 📈 the numbers
 
 <div align="center">
 
 [![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=bayumutawakkil&langs_count=5&theme=tokyonight&title_color=00D4FF&icon_color=00D4FF&border_color=00D4FF&text_color=C9D1D9&bg_color=0D1117)](https://github-stats-extended.vercel.app/api/top-langs?username=bayumutawakkil&langs_count=5&theme=tokyonight)
 
 <br/>
-
-[![30-day activity](https://ghstats.dev/api/sparkline?username=bayumutawakkil&days=30&width=420&color=00D4FF)](https://github.com/rowkav09/GitHub-profile-stats)
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/bayumutawakkil/bayumutawakkil/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
