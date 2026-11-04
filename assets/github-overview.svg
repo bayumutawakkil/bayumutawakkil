@@ -33,43 +33,43 @@
 <text x="1036" y="290" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">by code bytes</text>
 <clipPath id="barclip"><rect x="64" y="310" width="972" height="12" rx="6"/></clipPath>
 <g clip-path="url(#barclip)">
-<rect x="64.00" y="310" width="242.74" height="12" fill="#3178C6"/>
-<rect x="306.74" y="310" width="227.58" height="12" fill="#e34c26"/>
-<rect x="534.32" y="310" width="179.28" height="12" fill="#f1e05a"/>
-<rect x="713.60" y="310" width="83.70" height="12" fill="#DA5B0B"/>
-<rect x="797.30" y="310" width="75.18" height="12" fill="#b07219"/>
-<rect x="872.48" y="310" width="59.37" height="12" fill="#563d7c"/>
-<rect x="931.85" y="310" width="104.15" height="12" fill="#6e7681"/>
+<rect x="64.00" y="310" width="242.26" height="12" fill="#3178C6"/>
+<rect x="306.26" y="310" width="227.13" height="12" fill="#e34c26"/>
+<rect x="533.39" y="310" width="178.92" height="12" fill="#f1e05a"/>
+<rect x="712.32" y="310" width="83.53" height="12" fill="#DA5B0B"/>
+<rect x="795.85" y="310" width="75.04" height="12" fill="#b07219"/>
+<rect x="870.88" y="310" width="59.25" height="12" fill="#563d7c"/>
+<rect x="930.14" y="310" width="105.86" height="12" fill="#6e7681"/>
 </g>
 <circle cx="70" cy="357" r="6" fill="#3178C6"/>
 <text x="86" y="362" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">TypeScript</text>
 <rect x="264" y="350" width="260" height="8" rx="4" fill="#30363d"/>
-<rect x="264" y="350" width="64.93" height="8" rx="4" fill="#3178C6"/>
-<text x="544" y="362" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">25.0%</text>
+<rect x="264" y="350" width="64.80" height="8" rx="4" fill="#3178C6"/>
+<text x="544" y="362" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">24.9%</text>
 <circle cx="70" cy="401" r="6" fill="#e34c26"/>
 <text x="86" y="406" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">HTML</text>
 <rect x="264" y="394" width="260" height="8" rx="4" fill="#30363d"/>
-<rect x="264" y="394" width="60.88" height="8" rx="4" fill="#e34c26"/>
+<rect x="264" y="394" width="60.76" height="8" rx="4" fill="#e34c26"/>
 <text x="544" y="406" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">23.4%</text>
 <circle cx="70" cy="445" r="6" fill="#f1e05a"/>
 <text x="86" y="450" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">JavaScript</text>
 <rect x="264" y="438" width="260" height="8" rx="4" fill="#30363d"/>
-<rect x="264" y="438" width="47.96" height="8" rx="4" fill="#f1e05a"/>
+<rect x="264" y="438" width="47.86" height="8" rx="4" fill="#f1e05a"/>
 <text x="544" y="450" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">18.4%</text>
 <circle cx="586" cy="357" r="6" fill="#DA5B0B"/>
 <text x="602" y="362" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jupyter Notebook</text>
 <rect x="780" y="350" width="260" height="8" rx="4" fill="#30363d"/>
-<rect x="780" y="350" width="22.39" height="8" rx="4" fill="#DA5B0B"/>
+<rect x="780" y="350" width="22.34" height="8" rx="4" fill="#DA5B0B"/>
 <text x="1060" y="362" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">8.6%</text>
 <circle cx="586" cy="401" r="6" fill="#b07219"/>
 <text x="602" y="406" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Java</text>
 <rect x="780" y="394" width="260" height="8" rx="4" fill="#30363d"/>
-<rect x="780" y="394" width="20.11" height="8" rx="4" fill="#b07219"/>
+<rect x="780" y="394" width="20.07" height="8" rx="4" fill="#b07219"/>
 <text x="1060" y="406" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">7.7%</text>
 <circle cx="586" cy="445" r="6" fill="#563d7c"/>
 <text x="602" y="450" fill="#e6edf3" font-size="14" font-weight="500" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">CSS</text>
 <rect x="780" y="438" width="260" height="8" rx="4" fill="#30363d"/>
-<rect x="780" y="438" width="15.88" height="8" rx="4" fill="#563d7c"/>
+<rect x="780" y="438" width="15.85" height="8" rx="4" fill="#563d7c"/>
 <text x="1060" y="450" fill="#8b949e" font-size="13" font-weight="500" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">6.1%</text>
 <text x="40" y="546" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Generated from public GitHub data</text>
 </svg>
