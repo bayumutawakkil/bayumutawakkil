@@ -2,6 +2,12 @@ name: Generate GitHub Overview SVG
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate_overview.py"
+      - ".github/workflows/generate-overview.yml"
   schedule:
     - cron: "0 0 * * *" # Every day at 00:00 UTC (07:00 WIB)
 
