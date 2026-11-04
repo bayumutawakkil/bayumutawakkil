@@ -31,8 +31,10 @@ I'm not just here for the code. I want to know *why* a process exists before I a
 
 <div align="center">
 
-<!-- SKILL_ICONS_START -->
-typescript,html5,javascript,jupyter,openjdk,css,python,gnubash
+<!-- SKILL_ICONS_START icons="typescript,html5,javascript,jupyter,openjdk,css,python,gnubash" -->
+
+![][SKILL_ICONS_0]
+
 <!-- SKILL_ICONS_END -->
 
 </div>
@@ -67,3 +69,5 @@ alt="GitHub Stats and Most Used Languages"
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:00D4FF,100:0D1117&section=footer" width="100%" alt="Footer"/>
 
 </div>
+
+[SKILL_ICONS_0]: assets/svgs/typescript..gnubash-d14fecc.svg
