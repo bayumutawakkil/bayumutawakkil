@@ -32,7 +32,7 @@ I'm not just here for the code. I want to know *why* a process exists before I a
 <div align="center">
 
 <!-- SKILL_ICONS_START -->
-typescript,html5,javascript,jupyter,openjdk,css3,python,gnubash
+typescript,html5,javascript,jupyter,openjdk,css,python,gnubash
 <!-- SKILL_ICONS_END -->
 
 </div>
