@@ -29,7 +29,7 @@ SLUGS = {
     "Dart": "dart",
     "Java": "openjdk",
     "HTML": "html5",
-    "CSS": "css3",
+    "CSS": "css",
     "Jupyter Notebook": "jupyter",
     "Shell": "gnubash",
     "C": "c",
