@@ -27,11 +27,12 @@ I'm not just here for the code. I want to know *why* a process exists before I a
 
 ---
 
-### 🧰 the toolbox
+### tech stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,dart,html,css,react,nextjs,tailwind,vue,nodejs,express,django,mysql,sqlite,git,github,vscode,docker,flutter&theme=dark&perline=11" alt="tech stack"/>
+a
+<!-- SKILL_ICONS_START -->
+<!-- SKILL_ICONS_END -->
 
 </div>
 
