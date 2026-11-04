@@ -40,7 +40,11 @@ I'm not just here for the code. I want to know *why* a process exists before I a
 
 <div align="center">
 
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=bayumutawakkil&langs_count=5&theme=tokyonight&title_color=00D4FF&icon_color=00D4FF&border_color=00D4FF&text_color=C9D1D9&bg_color=0D1117)](https://github-stats-extended.vercel.app/api/top-langs?username=bayumutawakkil&langs_count=5&theme=tokyonight)
+<img
+src="https://raw.githubusercontent.com/bayumutawakkil/bayumutawakkil/main/assets/github-overview.svg"
+width="100%"
+alt="GitHub Stats and Most Used Languages"
+/>
 
 <br/>
 

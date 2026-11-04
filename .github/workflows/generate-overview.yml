@@ -1,0 +1,51 @@
+name: Generate GitHub Overview SVG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Every day at 00:00 UTC (07:00 WIB)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-github-overview
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      GITHUB_USERNAME: bayumutawakkil
+      MAX_REPOS_FOR_LANGUAGES: "100"
+      TOP_LANGUAGES: "6"
+      OUTPUT_FILE: assets/github-overview.svg
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate overview SVG
+        run: python scripts/generate_overview.py
+
+      - name: Commit updated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$OUTPUT_FILE"
+
+          if git diff --cached --quiet; then
+            echo "No changes to the generated SVG."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub overview card"
+          git push
